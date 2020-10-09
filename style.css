@@ -1,0 +1,28 @@
+.container {
+    margin:auto;
+    width:90%;
+    text-align: center;
+}
+.container button{
+    padding: 1rem;
+    margin: 1rem;
+    background: chocolate;
+    color: white;
+    font-size: 1rem;
+    margin-left: 0%;
+    cursor: pointer;
+    border:2px solid chocolate;
+}
+.container .form-control
+    {
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 1rem;
+    margin-right: -10px;
+    border:2px solid chocolate;
+}
+.output{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    font-weight: 600;
+}
